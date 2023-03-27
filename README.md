@@ -34,11 +34,13 @@ Site for the company, producing equipment for robotic car-washers, Belarus.
 
 
 ## Authors
+Ilvina Rakhimova<br>
+[@tintinelle](https://github.com/tintinelle) 
+
 Marina Morozova<br>
 [@moroz23moroz](https://github.com/moroz23moroz)
 
 Mariya Zeleneva<br>
 [@MZ-87](https://github.com/MZ-87)
 
-Ilvina Rakhimova<br>
-[@tintinelle](https://github.com/tintinelle) 
+
